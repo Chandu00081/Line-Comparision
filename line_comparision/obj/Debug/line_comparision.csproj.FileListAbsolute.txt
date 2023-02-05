@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\bin\Debug\line_comparision.exe.config
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\bin\Debug\line_comparision.exe
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\bin\Debug\line_comparision.pdb
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\obj\Debug\line_comparision.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\obj\Debug\line_comparision.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\obj\Debug\line_comparision.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\obj\Debug\line_comparision.exe
+C:\Users\pc\Desktop\.NET\LineComparisioin\line_comparision\line_comparision\obj\Debug\line_comparision.pdb
